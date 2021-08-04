@@ -3,7 +3,8 @@
 ### </> Acerca de:
 Descubrí que me apasiona el mundo de la programación web y disfruto mucho haciéndolo.
 Terminé la carrera de Desarrollo Front End y continúo con Desarrollo Back End en Coderhouse.
-Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de encargado de producción en una empresa de iluminación, pero actualmente me estoy capacitando en desarrollo web.
+
+Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de encargado de producción en una empresa de iluminación, pero actualmente estoy en constante formación para dedicarme a la programación y desarrollo web.
 
 ### </> Herramientas:
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=e34f26&labelColor=101010)](#)
