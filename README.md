@@ -19,11 +19,11 @@ Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de 
 [![jQuery](https://img.shields.io/badge/jQuery-1572B6?style=for-the-badge&logo=jquery&logoColor=1572b6&labelColor=101010)](#)
 [![Node.js](https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=node.js&logoColor=68a063&labelColor=101010)](#)
 </br></br>
-[![Git](https://img.shields.io/badge/Git-EB4D28?style=for-the-badge&logo=git&logoColor=eb4d28&labelColor=101010)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA29?style=for-the-badge&logo=firebase&logoColor=ffca29&labelColor=101010)](#)
+[![Git](https://img.shields.io/badge/Git-EB4D28?style=for-the-badge&logo=git&logoColor=eb4d28&labelColor=101010)](#)
 
-### </> Como llegar a mi 📫:
-#### prellezose@gmail.com
+### </> Como llegar a mi:
+#### 📧 prellezose@gmail.com
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=101010)](https://www.linkedin.com/in/sergio-emanuel-prellezo-desarrollador-web/)
 
 
