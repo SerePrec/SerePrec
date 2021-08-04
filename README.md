@@ -24,7 +24,7 @@ Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de 
 
 ### </> Como llegar a mi 📫:
 #### prellezose@gmail.com
-[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=101010)](https://www.linkedin.com/in/daniel-romero-garnica/)
+[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=101010)](https://www.linkedin.com/in/sergio-emanuel-prellezo-desarrollador-web/)
 
 
 
