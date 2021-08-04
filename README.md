@@ -10,8 +10,8 @@ Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de 
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572b6&labelColor=101010)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=101010)](#)
 </br></br>
-[![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=101010)](#)
-[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=61dafb&labelColor=202020)](#)
+[![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=7952b3&labelColor=101010)](#)
+[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=61dafb&labelColor=202020)](#)
 [![Sass Follow](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=bf4080&labelColor=101010)](#)
 </br></br>
 [![ReactJs](https://img.shields.io/badge/React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=101010)](#)
