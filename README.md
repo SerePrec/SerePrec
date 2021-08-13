@@ -1,3 +1,5 @@
+[![SerePrec](https://github.com/SerePrec/SerePrec/blob/main/profile_background.jpg "linkedin")](https://www.linkedin.com/in/sergio-emanuel-prellezo-desarrollador-web/)
+
 ## Soy Sergio Emanuel Prellezo 👋
 
 ### </> Acerca de:
