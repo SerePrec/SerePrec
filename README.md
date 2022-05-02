@@ -48,6 +48,7 @@ Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de 
 </br></br>
 [![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=ffffff&labelColor=101010)](#)
 [![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=76D04B&labelColor=101010)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)](#)
 [![Git](https://img.shields.io/badge/Git-EB4D28?style=for-the-badge&logo=git&logoColor=eb4d28&labelColor=101010)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=101010)](#)
 
