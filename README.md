@@ -4,10 +4,11 @@
 
 ### </> Acerca de:
 
-Descubrí que me apasiona el mundo de la programación web y disfruto mucho haciéndolo.
-Soy desarrollador Full Stack. Terminé la carrera de Desarrollo Front End y luego la carrera de Desarrollo Back End en Coderhouse.
+Soy desarrollador Full Stack.   
+Me apasiona el mundo de la programación y disfruto mucho haciéndolo.  
+Terminé la carrera de Desarrollo Front End y luego la carrera de Desarrollo Back End en Coderhouse.
 
-Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de encargado de producción y diseñando luminarias en una empresa de iluminación, pero actualmente estoy en constante formación para dedicarme a la programación y desarrollo web.
+Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de encargado de producción y diseñando luminarias en una empresa de iluminación, pero actualmente estoy en constante formación dedicándome a la programación y desarrollo de software.
 
 ### </> Herramientas:
 
