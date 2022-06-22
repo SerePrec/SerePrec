@@ -13,6 +13,7 @@ Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de 
 ### </> Herramientas:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=101010)](#)
+[![TypeScript](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=2f74c0&labelColor=101010)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-1572B6?style=for-the-badge&logo=jquery&logoColor=1572b6&labelColor=101010)](#)
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=e34f26&labelColor=101010)](#)
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572b6&labelColor=101010)](#)
