@@ -28,9 +28,12 @@ Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de 
 [![Express](https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&logoColor=fffff&labelColor=101010)](#)
 [![Koa](https://img.shields.io/badge/koa-339933?style=for-the-badge&logo=koa&logoColor=ffffff&labelColor=101010)](#)
 [![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=101010)](#)
+[![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=101010)](#)
+[![Apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=101010)](#)
 </br></br>
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=101010)](#)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=ffffff&labelColor=101010)](#)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=101010)](#)
 [![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=34E27A&labelColor=101010)](#)
 </br></br>
 [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=F22F46&labelColor=101010)](#)
@@ -48,9 +51,10 @@ Tengo estudios en ingeniería mecánica y astronomía. Trabajé muchos años de 
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=8D6748&labelColor=101010)](#)
 [![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=ffffff&labelColor=101010)](#)
 </br></br>
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=101010)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)](#)
 [![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=ffffff&labelColor=101010)](#)
 [![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=76D04B&labelColor=101010)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)](#)
 [![Git](https://img.shields.io/badge/Git-EB4D28?style=for-the-badge&logo=git&logoColor=eb4d28&labelColor=101010)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=101010)](#)
 
